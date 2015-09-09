@@ -1,0 +1,15 @@
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibraryUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.AdministratorUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.MembersUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.SearchUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.BookUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.IssueOrAcceptUI.resources
+I:\c##\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.adminVarification.resources

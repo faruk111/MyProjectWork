@@ -1,0 +1,11 @@
+I:\c##\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+I:\c##\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+I:\c##\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csprojResolveAssemblyReference.cache
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.Cache
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ApplicationUI.resources
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UI.EmployeeUI.resources
+I:\c##\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UI.TransactionUI.resources
